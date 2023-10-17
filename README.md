@@ -3,8 +3,9 @@
 
 ### Hi there 👋, I'm Abhishek
 
-- 🏢 Software / ML Engineer, currently in Buffalo, NY
+- 🏢 Software / ML Engineer
 - 🌱 I’m currently searching for full-time roles in Software or Machine learning
+- 🔭 I specialize in building scalable distributed systems and computer vision applications.
 - 📫 How to reach me: akumar58@buffalo.edu
 
 ![](https://komarev.com/ghpvc/?username=abhinine4)
