@@ -4,8 +4,9 @@
 ### Hi there 👋, I'm Abhishek
 
 - 🏢 Software / ML Engineer
+- 😄 I have 3 years of software development experience and a Master's degree in Computer Science
 - 🌱 I’m currently searching for full-time roles in Software or Machine learning
-- 🔭 I specialize in building scalable distributed systems and computer vision applications.
+- 🔭 I specialize in building scalable distributed systems and computer vision applications
 - 📫 How to reach me: akumar58@buffalo.edu
 
 ![](https://komarev.com/ghpvc/?username=abhinine4)
