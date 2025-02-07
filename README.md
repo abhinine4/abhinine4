@@ -3,10 +3,10 @@
 
 ### Hi there 👋, I'm Abhishek
 
-- 🏢 Software / ML Engineer
-- 😄 I have 4 years of Machine Learning experience and a Master's degree in Computer Science
-- 🌱 I’m currently searching for full-time roles in Machine learning or Software Engineering
-- 🔭 I specialize in building scalable language and computer vision applications
+- 🏢 Machine Learning Engineer
+- 😄 I have 5 years of Machine Learning experience and a Master's degree in Computer Science.
+- 🌱 I’m currently searching for full-time roles in Machine learning.
+- 🔭 I specialize in building scalable language(conversational) and computer vision applications.
 - 📫 How to reach me: reachme.abhishek.kr@gmail.com | akumar58@buffalo.edu
 
 ![](https://komarev.com/ghpvc/?username=abhinine4)
