@@ -7,7 +7,7 @@
 - 😄 I have 4 years of Machine Learning experience and a Master's degree in Computer Science
 - 🌱 I’m currently searching for full-time roles in Machine learning or Software Engineering
 - 🔭 I specialize in building scalable language and computer vision applications
-- 📫 How to reach me: akumar58@buffalo.edu
+- 📫 How to reach me: reachme.abhishek.kr@gmail.com | akumar58@buffalo.edu
 
 ![](https://komarev.com/ghpvc/?username=abhinine4)
 
