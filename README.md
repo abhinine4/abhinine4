@@ -4,9 +4,10 @@
 ### Hi there 👋, I'm Abhishek
 
 - 🏢 Machine Learning Engineer
-- 😄 I have 5 years of Machine Learning experience and a Master's degree in Computer Science.
-- 🌱 I’m currently searching for full-time roles in Machine learning.
+- 😄 I have 5 years of Machine Learning experience and a Master's degree in Computer Science & Engineering.
+- 🌱 I’m currently searching for full-time roles in Machine learning/Applied Sciences.
 - 🔭 I specialize in building scalable language(conversational) and computer vision applications.
+- 💬 I build mostly with Python, C++, Pytorch.
 - 📫 How to reach me: reachme.abhishek.kr@gmail.com | akumar58@buffalo.edu
 
 ![](https://komarev.com/ghpvc/?username=abhinine4)
