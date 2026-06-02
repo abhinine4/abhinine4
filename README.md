@@ -3,12 +3,12 @@
 
 ### Hi there 👋, I'm Abhishek
 
-- 🏢 Machine Learning Engineer
-- 😄 I have 5 years of Machine Learning experience and a Master's degree in Computer Science & Engineering.
-- 🌱 I’m currently searching for full-time roles in Machine learning/Applied Sciences.
-- 🔭 I specialize in building scalable language(conversational) and computer vision applications.
-- 💬 I build mostly with Python, C++, Pytorch.
-- 📫 How to reach me: reachme.abhishek.kr@gmail.com | akumar58@buffalo.edu
+- 🏢 Senior Systems Software Engineer
+- 😄 I have 6+ years of Software and Machine Learning experience and a Master's degree in Computer Science & Engineering.
+- 🌱 I’m currently working as a senior engineer with Nvidia in the Metropolis Video Search and Summarization team.
+- 🔭 I specialize in building scalable search, vision and conversation systems.
+- 💬 I build mostly with Python, C++, Pytorch, NAT, Langchain.
+- 📫 How to reach me: reachme.abhishek.kr@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=abhinine4)
 
